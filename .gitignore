@@ -1,0 +1,6 @@
+modelapi/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+difficulty_pred.pth
